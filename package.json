@@ -1,5 +1,5 @@
 {
-  "name": "stacktrace-gps",
+  "name": "stacktrace-gps-papandreou",
   "description": "Turns partial code location into precise code location",
   "maintainers": [
     "Eric Wendelin <me@eriwen.com> (http://www.eriwen.com)",
